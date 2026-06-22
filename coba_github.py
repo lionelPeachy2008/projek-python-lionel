@@ -5,3 +5,5 @@ print("Projek ini ganti nama ya")
 print("Angka anda:", angka)
 hasil = angka * 10
 print("Hasil: ",hasil)
+print("\n")
+print("diatas ada spasi")
